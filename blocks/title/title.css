@@ -1,0 +1,7 @@
+@import url(./_size/title_size_l.css);
+
+@import url(./_theme/title_theme_reverse.css);
+
+.title {
+  margin: 0;
+}
