@@ -6,3 +6,5 @@
 @import url(../blocks/title/title.css);
 @import url(../blocks/profile/profile.css);
 @import url(../blocks/button/button.css);
+@import url(../blocks/places-grid/places-grid.css);
+@import url(../blocks/place-card/place-card.css);

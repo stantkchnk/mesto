@@ -1,0 +1,8 @@
+.places-grid__list {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 31.9727891156%);
+  gap: 21px 18px;
+  justify-self: center;
+}
