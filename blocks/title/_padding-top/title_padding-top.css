@@ -1,0 +1,9 @@
+.title_padding-top {
+  padding-top: 14px;
+}
+
+@media (min-width: 300px) and (max-width: 480px) {
+  .title_padding-top {
+    padding-top: 29px;
+  }
+}

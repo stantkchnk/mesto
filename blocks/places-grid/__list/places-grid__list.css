@@ -6,3 +6,21 @@
   gap: 21px 18px;
   justify-content: center;
 }
+
+@media (max-width: 960px) {
+  .places-grid__list {
+    grid-template-columns: repeat(auto-fit, 40%);
+  }
+}
+
+@media (max-width: 600px) {
+  .places-grid__list {
+    grid-template-columns: 80%;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .places-grid__list {
+    grid-template-columns: 100%;
+  }
+}

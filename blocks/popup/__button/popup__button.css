@@ -2,4 +2,12 @@
   position: absolute;
   top: -45px;
   right: -45px;
+  outline: none;
 }
+
+
+@media (max-height: 375px) {
+  .popup__button {
+    top: -35px;
+    right: -35px;
+  }

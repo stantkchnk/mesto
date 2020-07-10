@@ -2,5 +2,13 @@
   font-weight: 500;
   font-style: normal;
   font-size: 42px;
-  line-height: 133%;
+  line-height: 1;
+}
+
+@media (min-width: 300px) and (max-width: 480px) {
+  .title_size_l {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+  }
 }

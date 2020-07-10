@@ -1,0 +1,9 @@
+.button_margin-top {
+  margin-top: 21px;
+}
+
+@media (min-width: 300px) and (max-width: 480px) {
+  .button_margin-top {
+    margin-top: 31px;
+  }
+}

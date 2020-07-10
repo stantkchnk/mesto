@@ -8,3 +8,9 @@
   -moz-textsize-adjust: 100%;
   text-rendering: optimizeLegibility;
 }
+
+@media (max-height: 375px) {
+  .popup__title {
+    margin-bottom: 8%;
+  }
+}

@@ -3,3 +3,9 @@
   height: 50px;
   border-width: 2px;
 }
+
+@media (min-width: 300px) and (max-width: 480px) {
+  .button_size_l {
+    width: 100%;
+  }
+}

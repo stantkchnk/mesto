@@ -24,3 +24,10 @@
 .popup__profile-update-button:hover {
   opacity: 0.8;
 }
+
+@media (max-height: 375px) {
+  .popup__profile-update-button {
+    border-style: none;
+    height: 42px;
+  }
+}

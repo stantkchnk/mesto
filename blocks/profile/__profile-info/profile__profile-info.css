@@ -7,3 +7,19 @@
   gap: 16px;
   align-items: center;
 }
+
+@media (max-width: 768px) {
+  .profile__profile-info {
+    flex-basis: auto;
+    justify-items: center;
+    gap: 10px 16px;
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 480px) {
+  .profile__profile-info {
+    gap: 14px 5px;
+    margin-bottom: 36px;
+  }
+}

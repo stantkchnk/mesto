@@ -2,6 +2,9 @@
 @import url(./_size/button_size_s.css);
 @import url(./_theme/button_theme_reverse.css);
 @import url(./_no-borders/button_no-borders.css);
+@import url(./__edit-icon/button__edit-icon.css);
+@import url(./_action/button_action_edit.css);
+@import url(./__close-icon/button__close-icon.css);
 
 .button {
   box-sizing: border-box;
