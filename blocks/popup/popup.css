@@ -1,0 +1,20 @@
+@import url(./__container/popup__container.css);
+@import url(./_background/popup_background_blackout.css);
+@import url(./__title/popup__title.css);
+@import url(./__profile-name/popup__profile-name.css);
+@import url(./__profile-about/popup__profile-about.css);
+@import url(./__profile-update-button/popup__profile-update-button.css);
+@import url(./__button/popup__button.css);
+
+.popup {
+  /* display: none; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+}

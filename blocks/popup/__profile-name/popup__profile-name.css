@@ -1,0 +1,21 @@
+.popup__profile-name {
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-textsize-adjust: 100%;
+  -ms-textsize-adjust: 100%;
+  -moz-textsize-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  margin-bottom: 6.93%;
+  border-bottom: 1px solid #808080;
+  padding: 0 0 13.3px;
+  border-style: none none solid none;
+}
+
+.popup__profile-name:focus {
+  outline: none;
+}

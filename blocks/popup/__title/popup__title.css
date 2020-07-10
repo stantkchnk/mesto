@@ -1,0 +1,10 @@
+.popup__title {
+  margin-bottom: 12.5581395349%;
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-textsize-adjust: 100%;
+  -ms-textsize-adjust: 100%;
+  -moz-textsize-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}

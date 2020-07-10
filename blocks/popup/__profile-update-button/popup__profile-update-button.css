@@ -1,0 +1,22 @@
+@import url(./_theme/popup__profile-update-button_theme_reverse.css);
+
+.popup__profile-update-button {
+  color: #fff;
+  outline: none;
+  border-radius: 2px;
+  border-style: none;
+  height: 52px;
+  max-height: 52px;
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.23;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-textsize-adjust: 100%;
+  -ms-textsize-adjust: 100%;
+  -moz-textsize-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}
