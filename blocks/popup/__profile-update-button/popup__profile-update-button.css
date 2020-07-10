@@ -20,3 +20,7 @@
   -moz-textsize-adjust: 100%;
   text-rendering: optimizeLegibility;
 }
+
+.popup__profile-update-button:hover {
+  opacity: 0.8;
+}
