@@ -19,6 +19,7 @@
   -ms-textsize-adjust: 100%;
   -moz-textsize-adjust: 100%;
   text-rendering: optimizeLegibility;
+  cursor: pointer;
 }
 
 .popup__profile-update-button:hover {

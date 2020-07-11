@@ -16,8 +16,5 @@
   padding: 0;
   border-style: none none solid none;
   resize: none;
-}
-
-.popup__profile-name:focus {
   outline: none;
 }

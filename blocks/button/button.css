@@ -4,6 +4,7 @@
 @import url(./_no-borders/button_no-borders.css);
 @import url(./__edit-icon/button__edit-icon.css);
 @import url(./_action/button_action_edit.css);
+@import url(./_action/button_action_add.css);
 @import url(./__close-icon/button__close-icon.css);
 
 .button {
@@ -11,6 +12,8 @@
   padding: 0;
   margin: 0;
   cursor: pointer;
+  outline: none;
+  transition: opacity ease-out 400ms;
 }
 
 .button:hover {
