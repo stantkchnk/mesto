@@ -12,4 +12,4 @@ _Применяемые технологии и подходы:_
 
 **Ссылка на демо**
 
-- [Mesto](https://stantkchnk.github.io/russian-travel/)
+- [Mesto](https://stantkchnk.github.io/mesto/)
