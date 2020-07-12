@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: "Inter";
-  font-style: medium;
+  font-style: normal;
   font-weight: 500;
   font-display: swap;
   src: url(./Inter-Medium.woff2) format("woff2"),
@@ -18,7 +18,7 @@
 
 @font-face {
   font-family: "Inter";
-  font-style: black;
+  font-style: normal;
   font-weight: 900;
   font-display: swap;
   src: url(./Inter-Black.woff2) format("woff2"),
