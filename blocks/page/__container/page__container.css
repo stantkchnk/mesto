@@ -19,7 +19,6 @@
 
 @media (min-width: 300px) and (max-width: 480px) {
   .page__container {
-    padding: 0 19px 0;
-    max-width: 282px;
+    padding: 0;
   }
 }
