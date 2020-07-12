@@ -1,12 +1,14 @@
-.popup__button {
+.popup__close-button {
   position: absolute;
   top: -45px;
   right: -45px;
   outline: none;
+  border-style: none;
+  background-color: transparent;
 }
 
 @media (max-height: 375px) {
-  .popup__button {
+  .popup__close-button {
     top: -35px;
     right: -35px;
   }

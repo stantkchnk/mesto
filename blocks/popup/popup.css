@@ -5,6 +5,8 @@
 @import url(./__profile-about/popup__profile-about.css);
 @import url(./__profile-update-button/popup__profile-update-button.css);
 @import url(./__button/popup__button.css);
+@import url(./__close-button/popup__close-button.css);
+@import url(./__close-icon/popup__close-icon.css);
 
 .popup {
   display: none;

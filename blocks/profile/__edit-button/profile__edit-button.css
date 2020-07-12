@@ -1,0 +1,20 @@
+.profile__edit-button {
+  width: 24px;
+  height: 24px;
+  border-width: 1px;
+  background-color: inherit;
+  border-color: #fff;
+  border-style: solid;
+  margin-top: 21px;
+}
+
+@media (min-width: 300px) and (max-width: 480px) {
+  .profile__edit-button {
+    width: 18px;
+    height: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 31px;
+  }
+}

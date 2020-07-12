@@ -1,5 +1,5 @@
 @media (max-height: 375px) {
-  .button__close-icon {
+  .popup__close-icon {
     width: 45px;
     height: 45px;
   }

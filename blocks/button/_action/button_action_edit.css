@@ -1,9 +1,0 @@
-@media (min-width: 300px) and (max-width: 480px) {
-  .button_action_edit {
-    width: 18px;
-    height: 18px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-}

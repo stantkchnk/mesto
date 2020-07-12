@@ -1,0 +1,17 @@
+.profile__add-button {
+}
+
+.profile__add-button {
+  width: 150px;
+  height: 50px;
+  border-width: 2px;
+  background-color: inherit;
+  border-color: #fff;
+  border-style: solid;
+}
+
+@media (min-width: 300px) and (max-width: 480px) {
+  .profile__add-button {
+    width: 100%;
+  }
+}
