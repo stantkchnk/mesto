@@ -3,3 +3,9 @@
 .footer {
   padding-bottom: 60px;
 }
+
+@media (min-width: 300px) and (max-width: 480px) {
+  .footer {
+    padding-left: 19px;
+  }
+}
