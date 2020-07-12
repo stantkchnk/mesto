@@ -20,6 +20,7 @@
   -moz-textsize-adjust: 100%;
   text-rendering: optimizeLegibility;
   cursor: pointer;
+  background-color: #000;
 }
 
 .popup__profile-update-button:hover {

@@ -198,21 +198,27 @@
         <p class="footer__text">© 2020 Mesto Russia</p>
       </footer>
     </div>
-    <div class="popup popup_background_blackout">
-      <form action="#" method="POST" class="popup__container">
+    <div class="popup">
+      <form
+        action="#"
+        method="POST"
+        class="popup__container"
+        name="edit-profile"
+      >
         <h3 class="popup__title">Редактировать профиль</h3>
         <input
           type="text"
-          class="popup__profile-name"
+          class="popup__input popup__input_content_name"
           name="profile-name"
-          value="Жак-Ив Кусто"
         />
-        <textarea class="popup__profile-about" rows="1">
-Исследователь океана</textarea
-        >
+        <input
+          type="text"
+          class="popup__input popup__input_content_about"
+          name="profile-about"
+        />
         <button
           type="submit"
-          class="popup__profile-update-button popup__profile-update-button_theme_reverse"
+          class="popup__profile-update-button"
         >
           Сохранить
         </button>

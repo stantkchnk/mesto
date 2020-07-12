@@ -1,8 +1,7 @@
 @import url(./__container/popup__container.css);
 @import url(./_background/popup_background_blackout.css);
 @import url(./__title/popup__title.css);
-@import url(./__profile-name/popup__profile-name.css);
-@import url(./__profile-about/popup__profile-about.css);
+@import url(./__input/popup__input.css);
 @import url(./__profile-update-button/popup__profile-update-button.css);
 @import url(./__button/popup__button.css);
 @import url(./__close-button/popup__close-button.css);

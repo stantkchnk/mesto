@@ -1,4 +1,6 @@
-.popup__profile-name {
+.popup__input {
+  padding: 0 0 13.3px;
+  outline: none;
   font-family: "Inter", "Arial", "Helvetica", sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -10,12 +12,9 @@
   -ms-textsize-adjust: 100%;
   -moz-textsize-adjust: 100%;
   text-rendering: optimizeLegibility;
-  margin-bottom: 6.93%;
-  border-bottom: 1px solid #808080;
-  padding: 0 0 13.3px;
+  margin-bottom: 8.4%;
   border-style: none none solid none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+ 
 }
 
-.popup__profile-name:focus {
-  outline: none;
-}
