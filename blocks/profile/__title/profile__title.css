@@ -1,0 +1,12 @@
+.profile__title {
+  text-overflow: ellipsis;
+  max-width: 350px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+  .profile__title {
+    max-width: 250px;
+  }
+}
