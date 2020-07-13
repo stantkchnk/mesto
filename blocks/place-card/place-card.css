@@ -2,3 +2,8 @@
 @import url(./__info-container/place-card__info-container.css);
 @import url(./__like-button/place-card__like-button.css);
 @import url(./__title/place-card__title.css);
+
+.place-card {
+  border-radius: 10px 10px 10px 10px;
+  overflow: hidden;
+}
