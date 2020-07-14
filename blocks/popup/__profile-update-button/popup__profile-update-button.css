@@ -27,7 +27,6 @@
 
 @media (max-height: 375px) {
   .popup__profile-update-button {
-    border-style: none;
     height: 42px;
   }
 }
